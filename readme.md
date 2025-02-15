@@ -7,7 +7,7 @@ I'm a software developer specializing in AI with a passion for creating innovati
 - 👯 I want to collaborate on open-source projects that can make a difference.
 - 💬 Ask me about anything related to Python, Generative AI, Machine Learning, and AWS.
 - 📫 How to reach me: [sachinkhandewal5@gmail.com](mailto:sachinkhandewal5@gmail.com)
-- ⚡ Fun fact: I love to ride my bike on weekends and I also play Counter-Strike send me a friend request there if you play as well [:D](https://steamcommunity.com/id/sachin1729/).
+- ⚡ Fun fact: I love to ride my bike on weekends and play Counter-Strike.
   
 ### Skills
 
