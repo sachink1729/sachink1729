@@ -21,7 +21,8 @@ I'm a software developer specializing in AI with a passion for creating innovati
 - **Project 2:** [Healthcare AI Assistant](https://github.com/sachink1729/Healthcare-AI-Assistant-Medical-Data-Qdrant-Dspy-Groq) - Building Private Healthcare AI Assistant for Clinics Using Qdrant Hybrid Cloud, DSPy and Groq - Llama3.
 - **Project 3** [Chain of Thought RAG Using DSPy](https://github.com/sachink1729/DSPy-Chain-of-Thought-RAG) - Building a Chain of Thought RAG Model with DSPy, Qdrant and Ollama.
 - **Project 4** [Landing Page Content Generator For Brands](https://github.com/sachink1729/LLM-Agent-Landing-Page-Generator-CrewAI-Qdrant-Langchain) - LLM Agents: Landing Page Generation for an E-commerce Platform Using CrewAI, Groq-LangChain and Qdrant.
-And much more please checkout my repositories: [Sachin's Repos](https://github.com/sachink1729?tab=repositories)
+
+And much more please check out my repositories: [Sachin's Repos](https://github.com/sachink1729?tab=repositories)
 
 ### GitHub Stats
 
