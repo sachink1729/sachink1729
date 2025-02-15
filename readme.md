@@ -3,7 +3,7 @@
 I'm a software developer specializing in AI with a passion for creating innovative solutions and exploring new technologies. Here's a bit about me:
 
 - 🔭 I’m working on improving my skills in AI Software Development.
-- 🌱 I’m learning advanced Generative AI and Software Engineering concepts.
+- 🌱 I’m learning Generative AI, DSA, and Software Engineering concepts.
 - 👯 I want to collaborate on open-source projects that can make a difference.
 - 💬 Ask me about anything related to Python, Generative AI, Machine Learning, and AWS.
 - 📫 How to reach me: [sachinkhandewal5@gmail.com](mailto:sachinkhandewal5@gmail.com)
