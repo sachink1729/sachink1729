@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [Sachin Khandewal](https://www.linkedin.com/in/sachink1729/) 
 
+![You are visitor number: ](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 I'm a software developer specializing in AI with a passion for creating innovative solutions and exploring new technologies. Here's a bit about me:
 
 - 🔭 I’m working on improving my skills in AI Software Development.
