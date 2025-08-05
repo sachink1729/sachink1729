@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Sachin Khandewal](https://www.linkedin.com/in/sachink1729/) 
 
-![](https://komarev.com/ghpvc/?username=sachink1729&label=You+are+vistor+number:)
+![](https://komarev.com/ghpvc/?username=sachink1729&label=You+are+vistor+number:color=brightgreen)
 
 I'm a software developer specializing in AI with a passion for creating innovative solutions and exploring new technologies. Here's a bit about me:
 
